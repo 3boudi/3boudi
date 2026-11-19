@@ -1,0 +1,581 @@
+{
+  "username": "3boudi",
+  "generated_at": "2026-11-19T17:46:39Z",
+  "name": "HALITIM amin",
+  "public_repos": 69,
+  "original_repos": 64,
+  "total_stars": 93,
+  "original_stars": 90,
+  "followers": 19,
+  "created_year": 2022,
+  "years_on_github": 4,
+  "languages": {
+    "HTML": 13,
+    "PHP": 9,
+    "CSS": 7,
+    "Python": 6,
+    "JavaScript": 6,
+    "Java": 5,
+    "TypeScript": 3,
+    "Dart": 3,
+    "C": 2,
+    "Blade": 2,
+    "Vue": 1,
+    "Jupyter Notebook": 1,
+    "C++": 1
+  },
+  "repos": {
+    "halitimamin-workshop": {
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-11-17T19:18:35Z"
+    },
+    "fallah-tech-backend-system": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "https://fieldshift-planner.sidalidjeghbal.workers.dev/",
+      "description": "Backend & System Design for FieldShift Planner \u2014 an agronomic decision-support platform for climate-resilient crop-rotation planning. Includes full architecture specs (Blueprint, ADRs, OpenAPI 3.1, JSON Schema) and a FastAPI + PostgreSQL/PostGIS + Redis + async worker backend orchestrated via Docker Compose.",
+      "updated_at": "2026-11-16T14:25:54Z"
+    },
+    "ramdan_challenge": {
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "https://ramdan-challenge.netlify.app/",
+      "description": "",
+      "updated_at": "2026-11-09T23:40:38Z"
+    },
+    "S-B-website": {
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-11-07T13:04:03Z"
+    },
+    "workshop": {
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-11-05T22:24:57Z"
+    },
+    "hadjdelivery": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Dart",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-11-03T17:04:25Z"
+    },
+    "AVL-BST": {
+      "stars": 15,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-11-03T13:13:03Z"
+    },
+    "timel": {
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-10-30T22:46:10Z"
+    },
+    "ML": {
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-10-27T20:44:25Z"
+    },
+    "mansalon": {
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-07-26T18:49:32Z"
+    },
+    "womansalon": {
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-07-02T23:42:22Z"
+    },
+    "O_O": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-05-12T13:55:09Z"
+    },
+    "PyChat-Network-System-": {
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "",
+      "description": "This project demonstrates network socket programming in Python, highlighting differences between TCP (connection-oriented) and UDP (connectionless). It includes basic client-server models for both and a two-way terminal chat app, covering key concepts like binding, listening, connections, and real-time messaging with threads.",
+      "updated_at": "2026-05-10T14:48:56Z"
+    },
+    "ADM": {
+      "stars": 2,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-05-10T14:48:44Z"
+    },
+    "hodory-attendance-system": {
+      "stars": 1,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "Hodory is an attendance management system for optimizing attendance tracking and management in educational institutions.",
+      "updated_at": "2026-05-10T14:48:42Z"
+    },
+    "Implementation-of-a-Monitor-using-Semaphores": {
+      "stars": 1,
+      "forks": 0,
+      "language": "C",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-05-10T14:48:32Z"
+    },
+    "amin-GPT": {
+      "stars": 4,
+      "forks": 0,
+      "language": "TypeScript",
+      "homepage": "https://amin-gpt.netlify.app/",
+      "description": "Amin-GPT is a fast, secure AI chatbot application. Built with a serverless Netlify backend and protected by Cloudflare Turnstile, it ensures safe, scalable, and high-quality AI conversations while keeping backend credentials strictly private.",
+      "updated_at": "2026-05-10T14:40:14Z"
+    },
+    "css": {
+      "stars": 2,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-04-28T15:42:35Z"
+    },
+    "adhan_khadija_oum_mouminin": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Dart",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-04-27T21:12:50Z"
+    },
+    "ipv6-omnet-core": {
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "OMNeT++ simulation framework for advanced IPv6 network performance analysis. Models dynamic routing (RIPng/OSPFv3), TCP/UDP transport behaviors, and DiffServ QoS under forced congestion scenarios.",
+      "updated_at": "2026-04-27T21:01:50Z"
+    },
+    "student_attandence": {
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-04-26T21:45:14Z"
+    },
+    "progress-ADMIN": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-04-15T19:07:43Z"
+    },
+    "time": {
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:24Z"
+    },
+    "stock_mengement.app-": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Vue",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:24Z"
+    },
+    "med-system": {
+      "stars": 4,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:23Z"
+    },
+    "graduation-project": {
+      "stars": 3,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:23Z"
+    },
+    "coffee-shop": {
+      "stars": 3,
+      "forks": 1,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:23Z"
+    },
+    "Ai-train": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-01-24T18:31:44Z"
+    },
+    "Contact_application": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Dart",
+      "homepage": "",
+      "description": "A secure mobile contact management application where users can register, login, and manage their personal contacts. Users can add, edit, delete, and search contacts, with a one-tap calling feature that initiates real phone calls directly from the app              User \u2192 Flutter App \u2192 FastAPI Backend \u2192 PostgreSQL \u2192 Back to User",
+      "updated_at": "2026-01-23T15:51:59Z"
+    },
+    "product_mangement_system": {
+      "stars": 3,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "",
+      "description": "using FastApi + SQLmodule + postgresSQL+ FastApi-Users  for : stronge backend ",
+      "updated_at": "2026-01-23T15:51:56Z"
+    },
+    "3boudi": {
+      "stars": 1,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-12-22T13:13:56Z"
+    },
+    "medstup": {
+      "stars": 0,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-11-21T14:52:48Z"
+    },
+    "shifa": {
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-11-11T17:41:24Z"
+    },
+    "CALCULAE-NOTES": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-30T12:27:07Z"
+    },
+    "PROFILE-WEBSIT": {
+      "stars": 3,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-16T20:42:24Z"
+    },
+    "new_vision-": {
+      "stars": 3,
+      "forks": 0,
+      "language": "C++",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-16T20:42:20Z"
+    },
+    "assignUserLabel": {
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-16T20:42:18Z"
+    },
+    "bank-system": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:30:52Z"
+    },
+    "web-for-ecom": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:30:40Z"
+    },
+    "Cashier": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:30:35Z"
+    },
+    "print-tax-for-cachier": {
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:30:30Z"
+    },
+    "product_m-": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Blade",
+      "homepage": "",
+      "description": "crud with laravel ",
+      "updated_at": "2025-10-09T22:28:58Z"
+    },
+    "session": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:53Z"
+    },
+    "events": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:48Z"
+    },
+    "loging-save-info-user-php": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:40Z"
+    },
+    "1-day-of-php": {
+      "stars": 1,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:32Z"
+    },
+    "ITS-JUST-A-POP": {
+      "stars": 1,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:27Z"
+    },
+    "to-do-list": {
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:22Z"
+    },
+    "Calculater-if-you-dont-have-one-in-your-phone": {
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:17Z"
+    },
+    "Clock-if-dont-have-one-in-your-PC-": {
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:13Z"
+    },
+    "c": {
+      "stars": 1,
+      "forks": 0,
+      "language": "C",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:28:08Z"
+    },
+    "supermark-mengent-laravel": {
+      "stars": 2,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:27:57Z"
+    },
+    "build-auth-from-scratch-using-laravel": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:25:14Z"
+    },
+    "cashier-front": {
+      "stars": 1,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T22:25:09Z"
+    },
+    "skyrook": {
+      "stars": 2,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:49:31Z"
+    },
+    "new-website": {
+      "stars": 2,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:49:03Z"
+    },
+    "Product-mengmen_s_withauth": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Blade",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:48:25Z"
+    },
+    "Events-mengement": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:48:03Z"
+    },
+    "Calculater-java": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:47:50Z"
+    },
+    "med-wilaya-connect": {
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:47:13Z"
+    },
+    "python": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:47:00Z"
+    },
+    "hypermarket-sales-management-system": {
+      "stars": 1,
+      "forks": 0,
+      "language": "PHP",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:46:55Z"
+    },
+    "Grapheditor-java": {
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:46:47Z"
+    },
+    "Supermarket_desktop": {
+      "stars": 1,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:46:39Z"
+    },
+    "raport": {
+      "stars": 1,
+      "forks": 0,
+      "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:46:25Z"
+    },
+    "projectQRcode": {
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:46:19Z"
+    },
+    "arrgouba": {
+      "stars": 1,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:45:45Z"
+    },
+    "hyper-project-web": {
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:45:05Z"
+    },
+    "HADJ-FOOD": {
+      "stars": 3,
+      "forks": 0,
+      "language": "CSS",
+      "homepage": "",
+      "description": "",
+      "updated_at": "2025-10-09T14:43:59Z"
+    }
+  }
+}
