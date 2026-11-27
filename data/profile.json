@@ -1,6 +1,6 @@
 {
   "username": "3boudi",
-  "generated_at": "2026-11-26T17:00:28Z",
+  "generated_at": "2026-11-27T16:46:55Z",
   "name": "HALITIM amin",
   "public_repos": 70,
   "original_repos": 65,
@@ -12,11 +12,11 @@
   "languages": {
     "HTML": 13,
     "PHP": 9,
-    "Python": 8,
+    "Python": 7,
     "CSS": 7,
     "JavaScript": 6,
     "Java": 5,
-    "TypeScript": 3,
+    "TypeScript": 4,
     "Dart": 3,
     "C": 2,
     "Blade": 2,
@@ -28,10 +28,10 @@
     "university-orientation-rcr": {
       "stars": 0,
       "forks": 0,
-      "language": "Python",
+      "language": "TypeScript",
       "homepage": "",
       "description": "University specialty orientation system  comparing three Knowledge Representation & Reasoning (RCR) paradigms: classical logic, default (non-monotonic) reasoning, and fuzzy logic.",
-      "updated_at": "2026-11-24T23:31:21Z"
+      "updated_at": "2026-11-26T19:58:27Z"
     },
     "3boudi": {
       "stars": 1,
@@ -233,18 +233,18 @@
       "description": "",
       "updated_at": "2026-03-04T11:21:24Z"
     },
-    "coffee-shop": {
-      "stars": 3,
-      "forks": 1,
-      "language": "HTML",
-      "homepage": "",
-      "description": "",
-      "updated_at": "2026-03-04T11:21:23Z"
-    },
     "med-system": {
       "stars": 4,
       "forks": 0,
       "language": null,
+      "homepage": "",
+      "description": "",
+      "updated_at": "2026-03-04T11:21:23Z"
+    },
+    "coffee-shop": {
+      "stars": 3,
+      "forks": 1,
+      "language": "HTML",
       "homepage": "",
       "description": "",
       "updated_at": "2026-03-04T11:21:23Z"
